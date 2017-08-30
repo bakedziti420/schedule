@@ -521,17 +521,18 @@ Weekly Goals:
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
 **9:00am Warm-up** | LABOR | [**Git and GitHub Refresher** (Zeb)][11-2A] | [**CodeWars**][11-3A] | [**CodeWars**][11-4A] | [**Second Pass** (Zeb)][11-5A]
-**9:30am Module 1** | DAY | [**Outcomes** (Nick)][11-2B] | REACT | [**PHP Intro** - *Conditionals, Arrays, Constructors, and MAMP* (Stefan)][11-4B] | [**Cars** - *PHP CRUD* (Gregory)][11-5B]
-**11:00am Module 2** | NO | [**Components and Blog Posts** - *React* (Nick)][11-2C] | REACT | [**Lab: Animals, Names, and Ages** - *PHP Exercises* (Stefan)][11-4C] | [**Lab: Cars** - *PHP CRUD* (Gregory)][11-5C]
-**1:30pm Module 3** | CLASS | [**Likes and Stores** - *Redux* (Nick)][11-2D] | REACT | [**PHP Wordpress** - *Themes, Partials, and Plugins*(Nick)][11-4D] | Freelance Project
-**3:00pm Module 4** | NO | [**Lab: Tic-Tac-Toe Again** - *React Tutorial* (Nick)][11-2E] | REACT | [**Lab: Poop Tulips** - *PHP Wordpress* (Nick)][11-4E] | Freelance Project
-**Training** | CLASS | Continue React Tutorial | REACT | [**Pick a Lightning Talk Topic**][11-4F] & **Continue Wordpress Site** | [**Lightning Talks Prep**][11-5E] & **Continue Outside Project**
+**9:30am Module 1** | DAY | [**Outcomes** (Nick)][11-2B] | [React TODO App][11-2F] | [**PHP Intro** - *Conditionals, Arrays, Constructors, and MAMP* (Stefan)][11-4B] | [**Cars** - *PHP CRUD* (Gregory)][11-5B]
+**11:00am Module 2** | NO | [**Hello World Component** - *React* (Nick)][11-2C] | [React TODO App][11-2F] | [**Lab: Animals, Names, and Ages** - *PHP Exercises* (Stefan)][11-4C] | [**Lab: Cars** - *PHP CRUD* (Gregory)][11-5C]
+**1:30pm Module 3** | CLASS | [**Props and State** - *React* (Nick)][11-2D] | [React TODO App][11-2F] | [**PHP Wordpress** - *Themes, Partials, and Plugins*(Nick)][11-4D] | Freelance Project
+**3:00pm Module 4** | NO | [**Lab: Tic-Tac-Toe Again** - *React Tutorial* (Nick)][11-2E] | [React TODO App][11-2F] | [**Lab: Poop Tulips** - *PHP Wordpress* (Nick)][11-4E] | Freelance Project
+**Training** | CLASS | Continue React Tutorial | Continue [React TODO App][11-2F] | [**Pick a Lightning Talk Topic**][11-4F] & **Continue Wordpress Site** | [**Lightning Talks Prep**][11-5E] & **Continue Outside Project**
 
 [11-2A]: https://github.com/den-materials/gh-lab "Git Fork and Clone Workflow"
 [11-2B]: https://github.com/den-materials/outcomes-resources "Outcomes"
-[11-2C]: https://github.com/den-materials/react "React"
-[11-2D]: https://github.com/den-materials/redux "Redux"
+[11-2C]: https://github.com/den-materials/react-intro "React"
+[11-2D]: https://github.com/den-materials/react-intro-2 "React"
 [11-2E]: https://facebook.github.io/react/tutorial/tutorial.html "React Lab"
+[11-2F]: https://github.com/den-materials/react-todo-walkthrough-jquery "React TODO App"
 
 [11-3A]: https://www.codewars.com "CodeWars"
 
