@@ -526,7 +526,7 @@ Time | Day 1                                 | Day 2                            
 **9:30am Module 1** | DAY | [**Outcomes** (Nick)][11-2B] | [React TODO App][11-2F] | [**PHP Intro** - *Conditionals, Arrays, Constructors, and MAMP* (Stefan)][11-4B] | [**Cars** - *PHP CRUD* (Gregory)][11-5B]
 **11:00am Module 2** | NO | [**Hello World Component** - *React* (Nick)][11-2C] | [React TODO App][11-2F] | [**Lab: Animals, Names, and Ages** - *PHP Exercises* (Stefan)][11-4C] | [**Lab: Cars** - *PHP CRUD* (Gregory)][11-5C]
 **1:30pm Module 3** | CLASS | [**Props and State** - *React* (Nick)][11-2D] | [React TODO App][11-2F] | [**PHP Wordpress** - *Themes, Partials, and Plugins*(Nick)][11-4D] | Freelance Project
-**3:00pm Module 4** | NO | [**Lab: Tic-Tac-Toe Again** - *React Tutorial* (Nick)][11-2E] | [React TODO App][11-2F] | [**Lab: Poop Tulips** - *PHP Wordpress* (Nick)][11-4E] | Freelance Project
+**3:00pm Module 4** | NO | [**Lab: Tic-Tac-Toe Again** - *React Tutorial* (Nick)][11-2E] | [React TODO App][11-2F] | [**Lab: Brian's Photography** - *PHP Wordpress* (Nick)][11-4E] | Freelance Project
 **Training** | CLASS | Continue React Tutorial | Continue [React TODO App][11-2F] | [**Pick a Lightning Talk Topic**][11-4F] & **Continue Wordpress Site** | [**Lightning Talks Prep**][11-5E] & **Continue Outside Project**
 
 [11-2A]: https://github.com/den-materials/gh-lab "Git Fork and Clone Workflow"
