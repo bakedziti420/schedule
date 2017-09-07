@@ -577,7 +577,6 @@ Weekly Goals:
 - Fully formulate an idea for a full-stack project and execute it independently
 - Answer mock interview questions from instructors and outside developers
 - Demonstrate work to technical and non-technical observers
-- Explain the merge sort algorithm
 
 #### Week 13 - Home Stretch (9/18-9/19)
 
