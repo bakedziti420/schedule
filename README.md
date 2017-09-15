@@ -583,7 +583,7 @@ Weekly Goals:
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
 **9:00am** | Scrum | Make-up Project Work | NO | NO | NO
-**11:00am** | Project Work | **Mock Interviews** | CLASS | CLASS | CLASS
+**11:00am** | Project Work | Make-up Project Work | CLASS | CLASS | CLASS
 **2:00pm** | **Project Presentations** | **Practice Showcase** | WORK | WORK | WORK
 **3:00pm** | **Project Presentations** | Final Survey, Certificates, and Recap (**Graduation**) | ON | ON | ON
 **Training** | Project Work | Happy Hour | PORTFOLIO | PORTFOLIO | PORTFOLIO
